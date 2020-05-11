@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+hellogood change me
+=======
 hellogood no dont change
+>>>>>>> dev1
 nice jobso i have to change again
 go ahead
 good 
